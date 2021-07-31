@@ -1,0 +1,63 @@
+07/03/2021 06:35:16 PM - SeleniumDriver - INFO: Element found with locator_type: linktext and locator: SIGN IN
+07/03/2021 06:35:19 PM - SeleniumDriver - INFO: Clicked on element with locator_type: linktext locator: SIGN IN
+07/03/2021 06:35:19 PM - SeleniumDriver - INFO: Element found with locator_type: id and locator: email
+07/03/2021 06:35:20 PM - SeleniumDriver - INFO: Sent data on element with locator_type: id locator: email
+07/03/2021 06:35:20 PM - SeleniumDriver - INFO: Element found with locator_type: id and locator: password
+07/03/2021 06:35:20 PM - SeleniumDriver - INFO: Sent data on element with locator_type: id locator: password
+07/03/2021 06:35:20 PM - SeleniumDriver - INFO: Element found with locator_type: xpath and locator: //input[@value='Login']
+07/03/2021 06:35:36 PM - SeleniumDriver - INFO: Clicked on element with locator_type: xpath locator: //input[@value='Login']
+07/03/2021 06:35:36 PM - SeleniumDriver - INFO: Element found with locator_type: linktext and locator: ALL COURSES
+07/03/2021 06:35:37 PM - SeleniumDriver - INFO: Clicked on element with locator_type: linktext locator: ALL COURSES
+07/03/2021 06:35:37 PM - RegisterCoursesPage - INFO: Element found with locator_type: name and locator: course
+07/03/2021 06:35:37 PM - RegisterCoursesPage - INFO: Sent data on element with locator_type: name locator: course
+07/03/2021 06:35:37 PM - RegisterCoursesPage - INFO: Element found with locator_type: xpath and locator: //h4[contains(.,'JavaScript for beginners')]
+07/03/2021 06:35:44 PM - RegisterCoursesPage - INFO: Clicked on element with locator_type: xpath locator: //h4[contains(.,'JavaScript for beginners')]
+07/03/2021 06:35:44 PM - RegisterCoursesPage - INFO: Element found with locator_type: xpath and locator: //button[contains(.,'Enroll in Course')]
+07/03/2021 06:35:57 PM - RegisterCoursesPage - INFO: Clicked on element with locator_type: xpath locator: //button[contains(.,'Enroll in Course')]
+07/03/2021 06:35:57 PM - RegisterCoursesPage - INFO: Element found with locator_type: name and locator: cardnumber
+07/03/2021 06:35:57 PM - RegisterCoursesPage - INFO: Sent data on element with locator_type: name locator: cardnumber
+07/03/2021 06:35:58 PM - RegisterCoursesPage - INFO: Element found with locator_type: name and locator: exp-date
+07/03/2021 06:35:58 PM - RegisterCoursesPage - INFO: Sent data on element with locator_type: name locator: exp-date
+07/03/2021 06:35:58 PM - RegisterCoursesPage - INFO: Element found with locator_type: name and locator: cvc
+07/03/2021 06:35:58 PM - RegisterCoursesPage - INFO: Sent data on element with locator_type: name locator: cvc
+07/03/2021 06:35:58 PM - RegisterCoursesPage - INFO: Element found with locator_type: xpath and locator: //select[@name='country-list']/option[text()='United States']
+07/03/2021 06:35:58 PM - RegisterCoursesPage - INFO: Clicked on element with locator_type: xpath locator: //select[@name='country-list']/option[text()='United States']
+07/03/2021 06:35:58 PM - RegisterCoursesPage - INFO: Element found with locator_type: xpath and locator: (//button[contains(.,'Buy')])[1]
+07/03/2021 06:35:58 PM - RegisterCoursesPage - INFO: Element :: 'BUY button' is not enabled
+07/03/2021 06:35:58 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Enrollment Failed Verification
+07/03/2021 06:35:58 PM - TestStatus - INFO: ['PASSED']
+07/03/2021 06:35:58 PM - TestStatus - ERROR: test_invalid_enrollment### TEST SUCCESSFUL
+07/03/2021 06:35:59 PM - SeleniumDriver - INFO: Element found with locator_type: linktext and locator: ALL COURSES
+07/03/2021 06:36:00 PM - SeleniumDriver - INFO: Clicked on element with locator_type: linktext locator: ALL COURSES
+07/03/2021 06:36:00 PM - RegisterCoursesPage - INFO: Element found with locator_type: name and locator: course
+07/03/2021 06:36:00 PM - RegisterCoursesPage - INFO: Sent data on element with locator_type: name locator: course
+07/03/2021 06:36:01 PM - RegisterCoursesPage - INFO: Element found with locator_type: xpath and locator: //h4[contains(.,'Rest API Automation With Rest Assured')]
+07/03/2021 06:36:05 PM - RegisterCoursesPage - INFO: Clicked on element with locator_type: xpath locator: //h4[contains(.,'Rest API Automation With Rest Assured')]
+07/03/2021 06:36:05 PM - RegisterCoursesPage - INFO: Element found with locator_type: xpath and locator: //button[contains(.,'Enroll in Course')]
+07/03/2021 06:36:10 PM - RegisterCoursesPage - INFO: Clicked on element with locator_type: xpath locator: //button[contains(.,'Enroll in Course')]
+07/03/2021 06:36:10 PM - RegisterCoursesPage - INFO: Element found with locator_type: name and locator: cardnumber
+07/03/2021 06:36:10 PM - RegisterCoursesPage - INFO: Sent data on element with locator_type: name locator: cardnumber
+07/03/2021 06:36:10 PM - RegisterCoursesPage - INFO: Element found with locator_type: name and locator: exp-date
+07/03/2021 06:36:11 PM - RegisterCoursesPage - INFO: Sent data on element with locator_type: name locator: exp-date
+07/03/2021 06:36:11 PM - RegisterCoursesPage - INFO: Element found with locator_type: name and locator: cvc
+07/03/2021 06:36:11 PM - RegisterCoursesPage - INFO: Sent data on element with locator_type: name locator: cvc
+07/03/2021 06:36:11 PM - RegisterCoursesPage - INFO: Element found with locator_type: xpath and locator: //select[@name='country-list']/option[text()='United States']
+07/03/2021 06:36:11 PM - RegisterCoursesPage - INFO: Clicked on element with locator_type: xpath locator: //select[@name='country-list']/option[text()='United States']
+07/03/2021 06:36:11 PM - RegisterCoursesPage - INFO: Element found with locator_type: xpath and locator: (//button[contains(.,'Buy')])[1]
+07/03/2021 06:36:11 PM - RegisterCoursesPage - INFO: Element :: 'BUY button' is not enabled
+07/03/2021 06:36:11 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Enrollment Failed Verification
+07/03/2021 06:36:11 PM - TestStatus - INFO: ['PASSED']
+07/03/2021 06:36:11 PM - TestStatus - ERROR: test_invalid_enrollment### TEST SUCCESSFUL
+07/03/2021 06:36:24 PM - SeleniumDriver - INFO: Element found with locator_type: linktext and locator: SIGN IN
+07/03/2021 06:36:25 PM - SeleniumDriver - INFO: Clicked on element with locator_type: linktext locator: SIGN IN
+07/03/2021 06:36:25 PM - SeleniumDriver - INFO: Element found with locator_type: id and locator: email
+07/03/2021 06:36:26 PM - SeleniumDriver - INFO: Sent data on element with locator_type: id locator: email
+07/03/2021 06:36:26 PM - SeleniumDriver - INFO: Element found with locator_type: id and locator: password
+07/03/2021 06:36:26 PM - SeleniumDriver - INFO: Sent data on element with locator_type: id locator: password
+07/03/2021 06:36:26 PM - SeleniumDriver - INFO: Element found with locator_type: xpath and locator: //input[@value='Login']
+07/03/2021 06:36:42 PM - SeleniumDriver - INFO: Clicked on element with locator_type: xpath locator: //input[@value='Login']
+07/03/2021 06:36:42 PM - Util - INFO: Actual Text From Application Web UI --> :: All Courses
+07/03/2021 06:36:42 PM - Util - INFO: Expected Text From Application Web UI --> :: Google
+07/03/2021 06:36:42 PM - Util - INFO: ### VERIFICATION DOES NOT CONTAINS !!!
+07/03/2021 06:36:42 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: Matching Title
+07/03/2021 06:36:43 PM - TestStatus - INFO: Screenshot saved to directory: C:\Users\Administrator\PycharmProjects\pythonProject1\base\..\screenshots\Matching Title.1625312202508.png
